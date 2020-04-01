@@ -18,4 +18,4 @@ Execution of the code is detailed in:
 
 ![Text](img/Text_2.png)
 
-![Text](img/interpolation.png)
+![Text](img/Interpolation.png)
