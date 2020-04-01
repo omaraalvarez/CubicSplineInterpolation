@@ -13,9 +13,13 @@ Execution of the code is detailed in:
         -h, --help          Show this help message and exit
 
 #
+<center>
+    <img src="img/Text_1.png" width="100%">
+</center>
 
-![Text](img/Text_1.png)
+<center>
+    <img src="img/Text_2.png" width="100%">
+</center>
 
-![Text](img/Text_2.png)
 
 ![Text](img/Interpolation.png)
